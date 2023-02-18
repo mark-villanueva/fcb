@@ -1,0 +1,28 @@
+*{ 
+	font-family: "Roboto", sans-serif;
+ } 
+ h1,p, a{ 
+ 	font-family: "Montserrat", sans-serif; 
+ 	
+  }
+#profile{ 
+	height: 250px; 
+	width: 250px; 
+	border-radius:50%; 
+
+	border-width: 5px; 
+	border-style: solid;
+	border-color: white;
+ } 
+ body{  
+ 	background-color: #425F57;
+  } 
+
+#landing{ 
+height:100vh;  
+display: flex; 
+flex-direction: column ;
+align-items: center;  
+padding-top: 15vh ;
+
+ }
